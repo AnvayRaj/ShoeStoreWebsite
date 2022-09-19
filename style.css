@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: #111;
+    color: white;
+    padding: 20px 50px;
+
+}
+.topLogo{
+    padding-bottom: 15px;
+}
+.navTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
